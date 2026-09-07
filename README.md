@@ -52,9 +52,9 @@
 
 | Project | Description |
 |---|---|
-| MyCodeNotes ![Private](https://img.shields.io/badge/-Private-red?style=flat-square) | My living DSA & LeetCode knowledge base — updated constantly as I learn |
+| [MyCodeNotes](https://github.com/nihal705/MyCodeNotes) | My living DSA & LeetCode knowledge base — updated constantly as I learn |
 | [kwikcric](https://github.com/nihal705/kwikcric) | Cricket analytics platform with player rankings & tournament history |
-| SabAi-Pay ![Private](https://img.shields.io/badge/-Private-red?style=flat-square) | AI-powered UPI payment assistant — Agent Pay & Reserve Pay, built with React, Node.js & Gemini AI |
+| [SabAi-Pay](https://github.com/nihal705/SabAi-Pay) | AI-powered UPI payment assistant — Agent Pay & Reserve Pay, built with React, Node.js & Gemini AI |
 | [weather-app](https://github.com/nihal705/weather-app) | Responsive weather app with real-time data using a weather API |
 | VelvetRow ![Private](https://img.shields.io/badge/-Private-red?style=flat-square) | MERN-stack movie ticket booking app with real-time seat selection & secure payments |
 
