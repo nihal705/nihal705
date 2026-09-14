@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm G Nihal</h1>
-<h3 align="center">Full Stack Developer | Building Real-World Projects</h3>
+<h3 align="center">Software Developer | Building Real-World Projects</h3>
 
 <p align="center">
   <a href="https://www.gnihal.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -11,7 +11,7 @@
 
 ### 👋 About Me
 
-- 🔭 Currently building **[SabAi-Pay](https://github.com/nihal705/SabAi-Pay)** — an AI-powered UPI payment assistant with Agent Pay & Reserve Pay capabilities
+- 🔭 Currently building **[SabAi-Pay](https://github.com/nihal705/SabAi-Pay)** — an AI-powered UPI payment assistant prototype exploring Agent Pay & Reserve Pay concepts
 - 💛 Most invested in **[MyCodeNotes](https://github.com/nihal705/MyCodeNotes)** — my living knowledge base where I log LeetCode solutions, practice problems, concepts, and notes as I learn them
 - 🏏 Also building & maintaining **[KwikCric](https://github.com/nihal705/kwikcric)** — a cricket analytics platform with player rankings and tournament history
 - 🗄️ My usual stack: Neon/Supabase + Node.js backend on Render, React frontend on Vercel
