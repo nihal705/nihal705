@@ -43,7 +43,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihal705&theme=radical&hide_border=true" alt="Nihal's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nihal705&theme=radical&hide_border=true" alt="Nihal's GitHub Streak" />
 </p>
 
 ---
