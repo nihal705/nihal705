@@ -12,7 +12,7 @@
 ### 👋 About Me
 
 - 🔭 Currently building **[SabAi-Pay](https://github.com/nihal705/SabAi-Pay)** — an AI-powered UPI payment assistant prototype exploring Agent Pay & Reserve Pay concepts
-- 💛 Most invested in **[MyCodeNotes](https://github.com/nihal705/MyCodeNotes)** — my living knowledge base where I log LeetCode solutions, practice problems, concepts, and notes as I learn them
+- 💛 Most invested in **[MyCodeNotes](https://github.com/nihal705/MyCodeNotes)** — a full-stack learning platform with LeetCode solutions, practice problems, concepts and notes as I learn, now with **NextraAI**, a RAG-powered AI assistant, progress tracking and mock tests
 - 🏏 Also building & maintaining **[KwikCric](https://github.com/nihal705/kwikcric)** — a cricket analytics platform with player rankings and tournament history
 - 🗄️ My usual stack: Neon/Supabase + Node.js backend on Render, React frontend on Vercel
 - 🧩 Sharpening problem-solving through DSA while building real full-stack projects
@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -52,12 +53,13 @@
 
 | Project | Description |
 |---|---|
-| [MyCodeNotes](https://github.com/nihal705/MyCodeNotes) | My living DSA & LeetCode knowledge base — updated constantly as I learn |
+| [MyCodeNotes](https://github.com/nihal705/MyCodeNotes) | Full-stack learning platform with DSA, problems and notes with NextraAI (RAG-powered AI assistant) |
 | [kwikcric](https://github.com/nihal705/kwikcric) | Cricket analytics platform with player rankings & tournament history |
 | [SabAi-Pay](https://github.com/nihal705/SabAi-Pay) | AI-powered UPI payment assistant — Agent Pay & Reserve Pay, built with React, Node.js & Gemini AI |
 | [weather-app](https://github.com/nihal705/weather-app) | Responsive weather app with real-time data using a weather API |
 | [VelvetRow](https://github.com/nihal705/velvetrow) | MERN-stack movie ticket booking app with real-time seat selection & secure payments |
 
+<!--
 ---
 
 ### 📖 Currently Learning
@@ -67,3 +69,4 @@
 | DSA | Advanced problem-solving & interview prep | 🟢 In Progress |
 | TypeScript | Type-safe development across full-stack projects | 🟢 In Progress |
 | React Native | Cross-platform mobile app development | 🟡 Up Next |
+-->
